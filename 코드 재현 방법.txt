@@ -1,0 +1,7 @@
+* command line 내 다음 내용 타이핑
+
+conda create -n dmeta python=3.8
+conda activate dmeta
+pip install -r requirements.txt
+
+pillow
