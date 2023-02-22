@@ -1,7 +1,8 @@
 * command line 내 다음 내용 타이핑
 
-conda create -n dmeta python=3.8
-conda activate dmeta
+conda create -n dmeta2 python=3.8
+conda activate dmeta2
 pip install -r requirements.txt
 
-pillow
+python cut_image.py
+python merge_image.py
